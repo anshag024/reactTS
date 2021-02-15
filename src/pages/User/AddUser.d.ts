@@ -8,4 +8,6 @@ export interface AddUserParams {
     useraccountNumber: string;
     userBankName: string;
     userbankAddress: string;
+
+    
 }
